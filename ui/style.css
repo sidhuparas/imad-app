@@ -21,6 +21,10 @@ body {
     height: 300px;
 }
 
+.a{
+    color: white;
+}
+
 .container{
      max-width: 800px;
      margin: 0 auto;
