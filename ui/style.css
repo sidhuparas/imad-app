@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color: maroon;
     margin-top: 75px;
 }
 
@@ -17,6 +17,14 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 300px;
 }
 
+.container{
+     max-width: 800px;
+     margin: 0 auto;
+     color: gainsoboro;
+     font-family: Segoe UI;
+     padding-left: 20px;
+     padding-right: 20px;
+}
