@@ -8,7 +8,7 @@ var config ={
     user:'sidhuparas1234',
     database: 'sidhuparas1234',
     host: 'db.imad.hasura-app.io',
-    port: 5432,
+    port: '5432',
     password: 'db-sidhuparas1234-38103'
 };
 
